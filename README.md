@@ -1,5 +1,5 @@
 
-# LiuLianCloud榴莲云机场官方地址(2026年月日更新)
+# LiuLianCloud榴莲云机场官方地址(2026年10月6日更新)
 LiuLianCloud榴莲云机场官网地址</br>
 官方地址：[https://a01vipaff.liulianyunaff.com](853vip01.liulianyunaff.com)</br>
 
