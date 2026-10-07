@@ -1,7 +1,7 @@
 
 # LiuLianCloud榴莲云机场官方地址(2026年10月6日更新)
 LiuLianCloud榴莲云机场官网地址</br>
-官方地址：[a01vipaff.liulianyunaff.com](https://to.iix.im/ll01)</br>
+官方地址:[853vip01.liulianyunaff.com](https://to.iix.im/ll01)</br>
 
 2026最新好用的机场推荐与节点分享：[https://github.com/jdnei/JiChangTuiJian](https://github.com/jdnei/JiChangTuiJian)</br>
 ## Telegram VPN 机场福利社 #AD
