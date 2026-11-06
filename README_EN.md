@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 English | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# LiuLianCloud VPN Official Website (Updated November 5, 2026)
+# LiuLianCloud VPN Official Website (Updated November 6, 2026)
 
 Official LiuLianCloud VPN Website<br>
 Official URL: [853vip01.liulianyunaff.com](https://to.iix.im/ll01)<br>
