@@ -1,6 +1,6 @@
  🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 فارسی
 
-# وب‌سایت رسمی LiuLianCloud VPN (به‌روزرسانی 7 نوامبر 2026)
+# وب‌سایت رسمی LiuLianCloud VPN (به‌روزرسانی 8 نوامبر 2026)
 وب‌سایت رسمی LiuLianCloud VPN<br>
 آدرس رسمی: [853vip01.liulianyunaff.com](https://to.iix.im/ll01)<br>
 
