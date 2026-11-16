@@ -3,6 +3,8 @@
 
 # LiuLianCloud榴莲云机场官方地址(2026年11月15日更新)
 LiuLianCloud榴莲云机场官网地址</br>
+✅只支持客户端
+
 官方地址：[853vip01.liulianyunaff.com](https://to.iix.im/ll01)</br>
 
 2026最新好用的机场推荐与节点分享：[https://github.com/jdnei/JiChangTuiJian](https://github.com/jdnei/JiChangTuiJian)</br>
