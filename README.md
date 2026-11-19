@@ -38,8 +38,8 @@ LiuLianCloud榴莲云机场套餐价格亲民，年付低流量套餐适合轻�
 `金枕小包 的公开描述还可以概括为：60GB/月 · 每30天刷新 · 全 IPLC 专线 · 单节点峰值最高 2.5Gbps · 原生 IP · 不限设备 · 不限速。`
 ## 📊 性能实测与分析
 #### 1.晚高峰测速表现
-![image](?raw=ture)</br>
+![image](https://github.com/jdnei/liulian/blob/main/liulian/89473592743985speed.jpg?raw=ture)</br>
 #### 2.流媒体解锁报告
-![image](?raw=ture)</br>  
+![image](https://github.com/jdnei/liulian/blob/main/liulian/843752943759test.jpg?raw=ture)</br>  
 #### 3.落地入口分析
-![image](?raw=ture)</br>
+![image](https://github.com/jdnei/liulian/blob/main/liulian/843570923509ana.jpg?raw=ture)</br>
